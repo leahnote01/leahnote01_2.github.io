@@ -33,7 +33,7 @@ if (isAwesome){
 
 ### 3. Method
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/HRA.JPG?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
