@@ -76,4 +76,4 @@ Overall Trends: Negative reviews commonly focus on noise and comfort, meals, and
 
 
 #### Sub-Regional Differences:
-Differences in priorities exist within subregions. For example, Eastern Asians value customer service highly, differing from the broader Asian focus on meals. This is attributed to the region's reputation for excellent service, particularly in Japan and Korea, where failure to meet these expectations can result in negative reviews.
+Differences in priorities exist within subregions. For example, Eastern Asians value customer service highly, differing from the broader Asian focus on meals. This is attributed to the region's reputation for excellent service, where failure to meet these expectations can result in negative reviews.
