@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Quality of Life: Tri-State Visualization](/pdf/sample_presentation.pdf)
+[Quality of Life: Tri-State Visualization](/pdf/Quality of Life Analysis.pdf)
 <img src="images/QOL.JPG?raw=true"/>
 
 ---
