@@ -7,9 +7,16 @@
 
 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Overview
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This project aims to analyze hotel reviews to uncover interesting patterns. The motivation stems from the experience of travelers and foodies who often rely on reviews and ratings but sometimes find them misleading. The goal is to look beyond ratings, focusing on review content, priority metrics for luxury hotel guests, and differences in perspectives based on nationality.
+
+
+### 1. Dataset and Preprocessing
+- Data Source: Kaggle ("515K Hotel Reviews Data in Europe" from Booking.com)
+- Dataset Details: 515K rows from 1493 hotels across various European countries
+- Preprocessing involved cleansing (space trimming, missing data removal), discretization (concept hierarchy), and structuring analysis based on regional classifications aligned with Google Maps.
+
 
 ```javascript
 if (isAwesome){
@@ -17,15 +24,14 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Method
+- Topic Modeling Algorithms:
+  - K-means Clustering
+  - TF-IDF (Term Frequency-Inverse Document Frequency)
+  - LDA (Latent Dirichlet Allocation) with Gensim
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Method
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
