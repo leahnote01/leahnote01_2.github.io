@@ -1,4 +1,10 @@
-## This can be your internal website page / project page
+## Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling 
+
+
+**Project description:** 
+-   Actively led a comprehensive NLP analysis project examining over 515,000 luxury hotel reviews to interpret complex customer latent patterns across diverse global region, utilizing Python and advanced Scikit-learn ML models (Gensim, LDA, clustering, NMF) expecting significant detailed analysis extracted insights.
+-   Orchestrated advanced data preprocessing and optimization techniques, along with thorough comparative analyses using R and Tableau expect to contribute to the company’s market positioning critical strategic decisions.
+
 
 **Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
