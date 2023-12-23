@@ -4,8 +4,8 @@
 
 ### Data Science Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling](/sample_page)
+<img src="HRA.JPG?raw=true"/>
 
 ---
 [Quality of Life: Tri-State Visualization](/pdf/Quality of Life Analysis.pdf)
