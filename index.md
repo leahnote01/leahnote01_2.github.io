@@ -12,7 +12,7 @@
 <img src="images/QOL.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)(/pdf/Quality of Life Analysis.pdf)
+[Multidimensional Analysis of Video Game Sales and Global Market Trends](http://example.com/)(/pdf/Quality of Life Analysis.pdf)
 <img src="images/stat.JPG?raw=true"/>
 
 ---
