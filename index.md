@@ -12,8 +12,8 @@
 <img src="images/QOL.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Title](http://example.com/)(/pdf/Quality of Life Analysis.pdf)
+<img src="images/stat.JPG?raw=true"/>
 
 ---
 
@@ -27,7 +27,8 @@
 
 ---
 
-
+<!-- [Project 3 Title](http://example.com/)
+<img src="images/stat.JPG?raw=true"/> -->
 
 
 ---
