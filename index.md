@@ -8,11 +8,12 @@
 <img src="images/HRA.JPG?raw=true"/>
 
 ---
-[Quality of Life: Tri-State Visualization](/pdf/Quality of Life Analysis.pdf)
+[Quality of Life Analysis: Tri-State Visualization](/pdf/Quality of Life Analysis.pdf)
+
 <img src="images/QOL.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)(/pdf/Quality of Life Analysis.pdf)
+[Project 3 Title](/pdf/Stats_Project_Final.pdf)
 <img src="images/stat.JPG?raw=true"/>
 
 ---
