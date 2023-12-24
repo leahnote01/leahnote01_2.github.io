@@ -8,13 +8,11 @@
 <img src="images/HRA.JPG?raw=true"/>
 
 ---
-[Quality of Life Analysis: Tri-State Visualization](/pdf/Quality of Life Analysis.pdf)
-
+[Quality of Life Analysis : Tri-State Visualization](/pdf/Quality_of_Life_Analysis.pdf)
 <img src="images/QOL.JPG?raw=true"/>
 
 ---
-[Project 3 Title](/pdf/Stats_Project_Final.pdf)
-[Multidimensional Analysis of Video Game Sales and Global Market Trends](http://example.com/)(/pdf/Quality of Life Analysis.pdf)
+[Multidimensional Analysis of Video Game Sales and Global Market Trends](/pdf/Stats_Project_Final.pdf)
 <img src="images/stat.JPG?raw=true"/>
 
 ---
@@ -29,10 +27,7 @@
 
 ---
 
-<!-- [Project 3 Title](http://example.com/)
-<img src="images/stat.JPG?raw=true"/> -->
-
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
