@@ -14,6 +14,7 @@
 
 ---
 [Project 3 Title](/pdf/Stats_Project_Final.pdf)
+[Multidimensional Analysis of Video Game Sales and Global Market Trends](http://example.com/)(/pdf/Quality of Life Analysis.pdf)
 <img src="images/stat.JPG?raw=true"/>
 
 ---
